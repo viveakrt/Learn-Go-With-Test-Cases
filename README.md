@@ -11,3 +11,7 @@ Get a grounding with TDD.
 ## Useful links
 
 - <https://awesome-go.com>.
+
+## Useful commands
+
+- ```godoc -http=:6060```
